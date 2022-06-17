@@ -1,4 +1,4 @@
-<img src="https://github.com/Aydeniztr/minimalist-hackernews-client/blob/main/images/banner.jpg?raw=true" widt=1280px height=640px>
+<img src="https://github.com/Aydeniztr/minimalist-hackernews-client/blob/main/images/banner.jpg?raw=true" widt=1280px height=480px>
 
 # minimalist-hackernews-client
 
