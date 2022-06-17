@@ -1,4 +1,4 @@
-# minimalist-hackernews-client
+## minimalist-hackernews-client
 
 # About
 
