@@ -1,6 +1,6 @@
-## minimalist-hackernews-client
+# minimalist-hackernews-client
 
-# About
+#### About
 
 A minimalist hackernews https://news.ycombinator.com/ client for android
 
